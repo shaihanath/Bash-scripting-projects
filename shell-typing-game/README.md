@@ -72,4 +72,4 @@ This project helped me practice important Bash scripting concepts:
 
 Clone the repository:
 
-git clone <repository-url>
+git clone https://github.com/shaihanath/Bash-scripting-projects/blob/main/shell-typing-game/typing_game.sh
